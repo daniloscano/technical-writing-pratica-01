@@ -1,3 +1,3 @@
 # Indice dei documenti
 
-[Appunti Danilo]
+[Appunti Danilo](./docs/appunti.md)
